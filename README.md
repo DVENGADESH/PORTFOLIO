@@ -1,40 +1,53 @@
-# Personal Portfolio Website
+# 🌟 Vengadesh D – Personal Portfolio
 
-This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
+Hello! I'm **Vengadesh D**, a B.Sc Information Technology student from **Sri Krishna Arts and Science College**, Coimbatore.  
+This portfolio is a small window into my journey — my skills, achievements, and the projects I’ve worked on with passion.
 
-## Description
+---
 
-The personal portfolio website showcases my skills, projects, and experiences as a web developer. It serves as an online platform to highlight my work and provide information about my background and expertise.
+## 👋 About Me
 
-## Features
+I’m a curious learner who believes in the power of ideas and action. Over the past few years, I’ve explored different areas of technology, participated in competitions, and worked on projects that reflect my creativity and dedication.
 
-- Home: Introduces myself and provides a brief overview of my skills and interests.
-- About: Details my professional background, education, and relevant experience.
-- Projects: Showcases the projects I have worked on, including descriptions, screenshots, and links to live demos or repositories.
-- Skills: Lists the programming languages, frameworks, and tools I am proficient in.
-- Contact: Offers various ways to get in touch with me, such as through email, social media, or a contact form.
+---
 
-## Technologies Used
+## 🏆 Highlights
 
-- HTML: Markup language used for structuring the website.
-- CSS: Stylesheet language used for designing and formatting the website.
-- JavaScript: Programming language used for adding interactivity and dynamic features.
+- 🥇 **1st Prize** – Paper Presentation at Sri Ramakrishna Arts and Science College  
+- 🥉 **3rd Prize** – Solve4Society Hackathon  
+- 🏅 **Digital Phoenix Award** – Hack24 Innovation Challenge  
+- 💼 Completed internships at CODETECH IT Solutions & Accent Techno Soft  
+- 🎯 Volunteer and event organizer at the Hackers Club – SKASC
 
-## Getting Started
+---
 
-To view the website locally or make modifications, follow these steps:
+## 💻 Projects
 
-1. Clone the repository: `git clone [repository URL]`
-2. Open the project folder in your preferred code editor.
-3. Open the `index.html` file in a web browser to view the website.
+### 📌 [SmartDiet-Planner](https://github.com/DVENGADESH/diet-planner-website-using-Edamamm-api)
+A website that helps users understand the nutritional value of their meals using a third-party API.
 
-## Contributing
+### 📌 [EventSphere-System](https://github.com/DVENGADESH/Event_Management_System)
+A simple web-based system designed to make managing events easier and more organized.
 
-I appreciate any suggestions, feedback, or contributions to enhance this personal portfolio website. If you would like to contribute, please follow the guidelines in the `CONTRIBUTING.md` file.
+---
 
-## Contact
+## 📫 Contact
 
-If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
+Feel free to reach out to me:
 
-Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
-![Portfolio](https://github.com/Venkateeshh/Portfolio-Website/assets/117290841/d05942e3-6970-47eb-9757-482f11bb6044)
+- 📧 **Email:** pathaivengadesh@gmail.com  
+- 📞 **Phone:** +91 9043602511  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vengadesh-dharmarajan)  
+- 💻 [GitHub](https://github.com/DVENGADESH)
+
+---
+
+## 📄 Resume
+
+📥 [Click here to download my resume](assets/23BIT161_VENGADESH.pdf)
+
+---
+
+> “Keep learning, keep building, and stay curious.”  
+
+© 2025 Vengadesh D
