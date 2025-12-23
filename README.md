@@ -23,13 +23,53 @@ I’m a curious learner who believes in the power of ideas and action. Over the 
 
 ## 💻 Projects
 
-### 📌 [SmartDiet-Planner](https://github.com/DVENGADESH/diet-planner-website-using-Edamamm-api)
-A website that helps users understand the nutritional value of their meals using a third-party API.
+**On-Duty Attendance Management System**
 
-### 📌 [EventSphere-System](https://github.com/DVENGADESH/Event_Management_System)
-A simple web-based system designed to make managing events easier and more organized.
+A secure, full-stack On-Duty (OD) Management System designed to automate attendance tracking for students with integrated geolocation verification and automated administrative reporting.
+🚀 Key Features
+Secure Authentication: Custom Spring Security implementation with robust CSRF protection for all authenticated API endpoints.
 
----
+Geofencing Verification: Enforces a 0.5 km attendance boundary using the Haversine formula to verify student location via browser geolocation during check-ins.
+
+High-Concurrency Handling: Optimized for high-volume student registrations with defensive logic to manage database race conditions and prevent duplicate entries.
+
+Automated Reporting: Scheduled background jobs identify eligible students and deliver detailed attendance reports to tutors via email.
+
+Performance Optimized: Uses asynchronous email processing (@Async) to ensure system responsiveness during heavy administrative tasks.
+
+🛠️ Tech Stack
+Backend: Spring Boot, Spring Security, Spring Data JPA
+Database: MySQL
+Frontend: HTML5, CSS3, JavaScript (Geolocation API)
+Tools: Maven, Git
+
+⚙️ Project Architecture
+Security: Implements custom authentication filters and CSRF token management to prevent unauthorized access and cross-site attacks.
+
+Automation: Uses Spring’s @Scheduled tasks for periodic report generation and batch processing.
+
+**🎙️ AI Public Speaking Coach**
+An intelligent platform that helps users master the art of communication by providing data-driven feedback on their speeches and presentations. 
+
+🌟 Key Features
+Automated Transcription: Instantly converts speech to text for detailed review.
+
+Metric-Driven Feedback: Get instant reports on WPM (Words Per Minute), filler word usage, and sentiment analysis.
+
+Scenario-Based Training: Practice specifically for technical demos or interviews with targeted AI evaluation.
+
+Privacy Centric: All audio data is handled securely and deleted post-analysis. 
+
+🛠️ Architecture
+Core: Built on Spring Boot for high-performance backend management.
+AI Integration: Leverages Spring AI for seamless communication with leading LLMs and transcription models.
+Database: Structured SQL storage for tracking user progress over time. 
+
+🚦 Getting Started
+Clone: git clone github.com
+Configure: Add your AI API keys (OpenAI/Google Speech) to application.properties.
+Run: Execute mvn spring-boot:run to start the local server. 
+
 
 ## 📫 Contact
 
@@ -50,4 +90,4 @@ Feel free to reach out to me:
 
 > “Keep learning, keep building, and stay curious.”  
 
-© 2025 Vengadesh D
+© Vengadesh D
