@@ -26,6 +26,7 @@ I’m a curious learner who believes in the power of ideas and action. Over the 
 **On-Duty Attendance Management System**
 
 A secure, full-stack On-Duty (OD) Management System designed to automate attendance tracking for students with integrated geolocation verification and automated administrative reporting.
+
 🚀 Key Features
 Secure Authentication: Custom Spring Security implementation with robust CSRF protection for all authenticated API endpoints.
 
@@ -49,6 +50,7 @@ Security: Implements custom authentication filters and CSRF token management to 
 Automation: Uses Spring’s @Scheduled tasks for periodic report generation and batch processing.
 
 **🎙️ AI Public Speaking Coach**
+
 An intelligent platform that helps users master the art of communication by providing data-driven feedback on their speeches and presentations. 
 
 🌟 Key Features
